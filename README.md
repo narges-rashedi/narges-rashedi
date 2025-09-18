@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Front-end web projects, creative UI/UX designs, and school tech projects.  <br><br>🤝 I’m looking to collaborate on  <br>Open-source projects and innovative ideas combining tech & design.  <br><br>👐 I’m looking for help with  <br>Programming and related stuff.  <br><br>🌱 I’m currently learning  <br>Web development (HTML, CSS, JS, PHP).  <br><br>💬 Ask me about  <br>Web development, design, and tech tips.  <br><br>⚡ Fun fact  <br>If something doesn’t work, just have a coffee. ☕  
+🔭 I’m enjoy working on  <br>Front-end web projects, creative UI/UX designs, and school tech projects.  <br><br>🤝 I’m looking to collaborate on  <br>Open-source projects and innovative ideas combining tech & design.  <br><br>👐 I’m looking for help with  <br>Programming and related stuff.  <br><br>🌱 I’m currently learning  <br>Web development (HTML, CSS, JS, PHP).  <br><br>💬 Ask me about  <br>design, and tech tips.  <br><br>⚡ Fun fact  <br>If something doesn’t work, just have a coffee. ☕  
 
 
 ## 🌐 Socials:
